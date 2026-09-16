@@ -15,6 +15,8 @@
   <name>petclinic</name>
 
   <properties>
+    <tomcat.version>11.0.25</tomcat.version>
+    <postgresql.version>42.7.12</postgresql.version>
     <!-- Generic properties -->
     <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
